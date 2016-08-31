@@ -7,7 +7,7 @@ import java.util.*;
 
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("输入数值");
+        System.out.println("输入数值1");
         Scanner in = new Scanner(System.in);
         int score = in.nextInt();
         /*if (score>90) {
